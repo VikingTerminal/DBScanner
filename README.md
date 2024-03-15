@@ -1,2 +1,14 @@
 # DBScanner
-This tool performs an in-depth scan of any database links + other details 
+💻 pip install requests
+
+💻 pip install beautifulsoup4
+
+💻 pip install colorama
+
+💻 https://github.com/VikingTerminal/DBScanner
+
+💻 cd DBScanner
+
+💻 chmod +x DBScanner.py
+
+💻 python DBScanner.py
