@@ -5,7 +5,7 @@
 
 💻 pip install colorama
 
-💻 https://github.com/VikingTerminal/DBScanner
+💻 git clone https://github.com/VikingTerminal/DBScanner
 
 💻 cd DBScanner
 
